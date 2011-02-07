@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import urllib2, re, sys
 '''
 This script is for downloading videos from http://www.khanacademy.org
